@@ -1,0 +1,42 @@
+body{
+    background: url(https://cdn.mos.cms.futurecdn.net/26Vpotr7XqVWf5PMov8iLn.jpg) no-repeat center center fixed;
+    background-size:cover;
+}
+.startup{
+    color: #ffffff;
+    font-size: 3rem;
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align:center;
+}
+h1{
+    color:#ffffff;
+    font-weight: bold;
+}
+.btn{
+    font-weight:700;
+    border-radius:300px;
+    text-transform:uppercase;
+}
+.btn-primary{
+    background-color:#de3731;
+    border-color:#de3731;
+}
+.btn-primary:hover{
+    background-color:#aa0001;
+    border-color:#aa0001;
+    border-width:4px;
+}
+.btn-xl{
+    padding: 1rem 2rem;
+}
+hr{
+    border-color: #aa0001;
+    border-width: 3px;
+    max-width:65px;
+}
+.buffer{
+    height: 5rem;
+}
